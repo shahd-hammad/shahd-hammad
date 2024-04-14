@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Shad
+### Hi there 👋, my name is Shahd
 #### I am Data Scientist and Researcher
 ![I am Data Scientist and Researcher](https://kiprahdinstitute.com/wp-content/uploads/2020/03/data222.jpg)
 
