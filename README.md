@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Shahd
 #### I am Data Scientist and Researcher
-![image](https://plus.unsplash.com/premium_photo-1678565999588-08fdd0b1410b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGF0YSUyMHNjaWVuY2V8ZW58MHx8MHx8fDA%3D)
+![image](https://github.com/shahd-hammad/shahd-hammad/assets/167019579/85b89e22-eab9-43ef-a00e-1fc43d749101)
 
-- 1️⃣ I have a strong foundation in data science principles .
-- 2️⃣ Possesses proficiency in data manipulation, analysis, and visualization techniques.
-- 3️⃣ Driven to leverage data to solve complex problems and extract actionable insights.
-- 4️⃣ Actively seeking opportunities to contribute to real-world projects and learn from experienced professionals.
+-  I have a strong foundation in data science principles.
+-  Possesses proficiency in data manipulation, analysis, and visualization techniques.
+-  Driven to leverage data to solve complex problems and extract actionable insights.
+-  Actively seeking opportunities to contribute to real-world projects and learn from experienced professionals.
 
 
 Skills: PYTHON / LLMs / PYTORCH / TENSORFLOW / NLP
